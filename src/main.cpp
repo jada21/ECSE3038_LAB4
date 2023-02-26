@@ -1,4 +1,6 @@
-
+/* 620141014
+JADA CAMPBELL
+ECSE3038 LAB4  */
 #include <Arduino.h>
 #include <Wifi.h>
 #include <HTTPClient.h>
